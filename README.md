@@ -2,7 +2,7 @@
 
 MSc Financial Markets @ emlyon | MSc Quantitative Finance @ IAE Lille | MEng @ HEI
 
-🏆 Top 3.1% IMC Prosperity 4 — 583rd / 18,803 teams worldwide
+🏆 Top 3.1% IMC Prosperity 4 - 583rd / 18,803 teams worldwide
 
 **Interests:** Systematic strategies · Empirical asset pricing · 
 Alternative data · Regime-switching models
