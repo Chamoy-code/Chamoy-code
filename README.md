@@ -10,6 +10,6 @@ Alternative data · Regime-switching models
 **Languages:** Python · R · C++ · SQL
 
 **Open to:** Quant Research / Quant Analyst internships  
-📍 Paris · London · Hong Kong · Singapore · Shanghai
+📍 Paris - London · Hong Kong · Singapore · Shanghai
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-charles--gonnet-blue)](https://www.linkedin.com/in/charles-gonnet)
